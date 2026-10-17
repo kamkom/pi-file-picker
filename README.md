@@ -23,7 +23,7 @@ pi -e /path/to/pi-file-picker
 
 # install it for good (local checkout, or a git remote once you push one)
 pi install /path/to/pi-file-picker
-pi install git:github.com/<you>/pi-file-picker
+pi install git:github.com/kamkom/pi-file-picker
 ```
 
 The default icon set needs a [Nerd Font](https://www.nerdfonts.com) (v3) in your terminal. Without one,
